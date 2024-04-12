@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali @DeepGitOwl
-- 👀 I’m interested in natural and artificial neural networks
+- 👀 I’m interested in Natural and Artificial Neural Networks
 - 🌱 I’m currently learning CNN for object detection and recognition
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
